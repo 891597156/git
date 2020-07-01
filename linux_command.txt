@@ -2,3 +2,4 @@ touch  建立文件夹
 vi 编辑文件夹
 
 git init  初始化仓库
+git 
